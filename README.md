@@ -4,6 +4,8 @@ I'm interested in backend engineering, autonomous systems, and robotics (despite
 
 Many of the repositories on my profile are private due to them containing code for classes which I cannot publicly expose.
 
+Away from the keyboard I like to cook, listen to music, bike, and read.
+
 Got an idea for a cool project or just a random tangent you'd like to discuss? You can reach me at mattn (at) vt.edu.
 
 Thanks! Matt N.
